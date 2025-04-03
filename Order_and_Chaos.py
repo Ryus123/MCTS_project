@@ -6,6 +6,7 @@ of the game 'Order and Chaos'.
 sources : 
     - https://en.wikipedia.org/wiki/Order_and_Chaos
     - https://ludii.games/details.php?keyword=Order%20and%20Chaos
+    - https://www.lamsade.dauphine.fr/~cazenave/papers/OptimizingPlayouts.pdf
 
 Created on 02/18/2025.
 
