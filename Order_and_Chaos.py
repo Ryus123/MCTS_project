@@ -108,9 +108,7 @@ class Board(object):
         return False
         
     def terminal(self):
-        if not self.win():
-            return False
-        if not self.draw():
+        if not self.win() and not self.draw():
             return False
         return True
     
